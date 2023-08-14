@@ -1,0 +1,11 @@
+h1{
+    background-origin: padding-box;
+    background-color: aqua;
+    color: rgb(255, 16, 16);
+}
+
+marquee{
+    background-color: black;
+    color: azure;
+    font-size: larger;
+}
